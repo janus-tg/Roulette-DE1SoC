@@ -9,6 +9,8 @@ A fixed amount of $10 is bet for each round of the game. The user enters a digit
 
 ## Running the program
 
+####  To run this program, please message me for the ```Source.c``` file as this project was created as part of a coursework.
+
 1. Open ```cpulator.01xz.net``` on your favorite browser.
 2. Select the architecture as ```ARMv7``` and the system as ```ARMv7 DE-1 SoC```.
 3. Change the language to ```C```.
