@@ -10,4 +10,9 @@ A fixed amount of $10 is bet for each round of the game. The user enters a digit
 ## Running the program
 
 1. Open ```cpulator.01xz.net``` on your favorite browser.
-2. 
+2. Select the architecture as ```ARMv7``` and the system as ```ARMv7 DE-1 SoC```.
+3. Change the language to ```C```.
+4. Download the ```Source.c``` file from here and upload it to cpulator. 
+5. Hit the compile button.
+6. Drag and place the PS/2 keyboard with address ```ff200100``` next to the VGA Pixel buffer for ease of use. 
+7. Keep entering numbers on the keyboard and the display will update automatically
