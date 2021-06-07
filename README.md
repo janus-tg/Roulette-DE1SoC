@@ -18,3 +18,7 @@ A fixed amount of $10 is bet for each round of the game. The user enters a digit
 5. Hit the compile button.
 6. Drag and place the PS/2 keyboard with address ```ff200100``` next to the VGA Pixel buffer for ease of use. 
 7. Keep entering numbers on the keyboard and the display will update automatically
+
+## License
+
+[GPL-3.0](https://github.com/janus-tg/Roulette-DE1SoC/blob/main/LICENSE)
